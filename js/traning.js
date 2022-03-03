@@ -1,5 +1,7 @@
 "use strict";   
 
-if (4 == 4) {
+if (0) {
     console.log("da");
+} else {
+    console.log("net");
 }
